@@ -1,1 +1,6 @@
-## Dodat opis korisnika
+## Dodat opis korisnika:
+- Direktor biblioteke
+- Clan biblioteke
+- Radnik biblioteke
+- Menadzer biblioteke
+
