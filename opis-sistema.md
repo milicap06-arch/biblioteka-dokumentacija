@@ -5,5 +5,10 @@ Bibliotekar vodi racuna o pozajmicama knjiga i povratu istih.
 -Clan biblioteke
 -Biblotekar
 -Menadzer biblioteke
+## Osnovni zahtjevi:
+- Clan biblioteke moze pretrazivati knjige po autoru i nazivu
+- Clan moze pristupati popisu svojih pozajmica
+- Bibliotekar moze evidentirati pozajmice i povrat knjiga
+  
 
 
