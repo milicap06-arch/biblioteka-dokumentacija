@@ -1,6 +1,6 @@
 ## Dodat opis korisnika:
-- Direktor biblioteke
-- Clan biblioteke
-- Radnik biblioteke
-- Menadzer biblioteke
+- Direktor biblioteke rukovodi bibliotekom.
+- Clan biblioteke koristi knjige u biblioteci.
+- Radnik biblioteke je zaposlen u biblioteci
+
 
